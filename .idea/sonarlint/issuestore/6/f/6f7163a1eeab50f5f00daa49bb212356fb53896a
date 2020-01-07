@@ -1,0 +1,6 @@
+
+‹squid:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(Äÿûƒ8¿ä¹÷-
+‘squid:S1319"nThe type of the "values" object should be an interface such as "Map" rather than the implementation "HashMap".(¸‡›ûûÿÿÿÿ8îÕ¼÷-
+squid:S1319"pThe type of the "posts" object should be an interface such as "List" rather than the implementation "ArrayList".(Äÿûƒ8ø±˜¸÷-
+¤squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¸‡›ûûÿÿÿÿ8îÕ¼÷-
+]squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8¼©á÷-

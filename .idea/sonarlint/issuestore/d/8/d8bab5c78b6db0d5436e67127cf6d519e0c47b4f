@@ -1,0 +1,17 @@
+
+rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(–°µ½
+Zsquid:S1444"7Make this "public static dependentVariable" field final(é”îúúÿÿÿÿ8ÚÑÒ»÷-
+—"squid:ClassVariableVisibilityCheck"]Make dependentVariable a static final constant or non-public and provide accessors if needed.(é”îúúÿÿÿÿ8ÚÑÒ»÷-
+Œ"squid:ClassVariableVisibilityCheck"WMake columnNames a static final constant or non-public and provide accessors if needed.(ã˜‰Ÿ8óıº÷-
+Wsquid:S1444"4Make this "public static allowedColumns" field final(Ğ´è´ùÿÿÿÿ8›éƒÚ÷-
+Osquid:S1444"1Make this "public static columnNames" field final(ã˜‰Ÿ8óıº÷-
+csquid:UselessImportCheck"8Remove this unused import 'com.dangolawski.models.Post'.(€§«±8í²¦Ø÷-
+jsquid:ModifiersOrderCheck
+"EReorder the modifiers to comply with the Java Language Specification.(„œ«ä
+9squid:S2386"Make this member "protected".(ÈÕ‰Õüÿÿÿÿ
+rsquid:S00115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(„œ«ä
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(ì‰É×øÿÿÿÿ
+”"squid:ClassVariableVisibilityCheck"ZMake allowedColumns a static final constant or non-public and provide accessors if needed.(Ğ´è´ùÿÿÿÿ8›éƒÚ÷-
+œsquid:S1319"yThe type of the "allowedColumns" object should be an interface such as "List" rather than the implementation "ArrayList".(Ğ´è´ùÿÿÿÿ8’©Ú÷-
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8’©Ú÷-

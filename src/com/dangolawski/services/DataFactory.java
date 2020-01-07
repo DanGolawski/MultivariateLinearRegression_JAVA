@@ -8,36 +8,39 @@ import java.io.IOException;
 import java.lang.reflect.InvocationTargetException;
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.LinkedHashSet;
 import java.util.List;
 
-
-// TODO zaimplementowac algorytm usuwajacy outliery
 public class DataFactory {
 
-    String[] columnNames;
+    private List<String> forbiddenColumns;
+    private BufferedReader csvReader;
+    private String row;
 
-    List<String> forbiddenCollumns;
+    public DataFactory() {
+        forbiddenColumns = Arrays.asList(Globals.forbiddenColumns);
+    }
 
-    public LinkedHashSet<Post> readDataAndCreatePlayers() throws IOException, ClassNotFoundException, IllegalAccessException, InstantiationException, NoSuchMethodException, InvocationTargetException {
-        LinkedHashSet<Post> postSet = new LinkedHashSet<>();
-        forbiddenCollumns = Arrays.asList(Globals.forbiddenColumns);
-        BufferedReader csvReader = new BufferedReader(new FileReader(Globals.filePath));
-        String row;
-        columnNames = csvReader.readLine().split(",");
-        while((row = csvReader.readLine()) != null) {
-            postSet.add(createNewPost(row.split(",")));
-        }
+    public ArrayList<Post> readDataAndCreatePlayers() throws IOException, ClassNotFoundException, IllegalAccessException, InstantiationException, NoSuchMethodException, InvocationTargetException {
+        ArrayList<Post> postArray = new ArrayList<>();
+        csvReader = new BufferedReader(new FileReader(Globals.filePath));
+        Globals.columnNames = csvReader.readLine().split(",");
+        while((row = csvReader.readLine()) != null) postArray.add(createNewPost(row.split(",")));
         csvReader.close();
-        return postSet;
+        createListOfAllowedColumnNames();
+        return postArray;
     }
 
     private Post createNewPost(String[] data) throws NoSuchMethodException, InvocationTargetException, IllegalAccessException {
         Post post = new Post();
-        for (int i = 0; i < columnNames.length; i++) {
-            if (forbiddenCollumns.contains(columnNames[i])) continue;
-            post.getClass().getMethod("set"+columnNames[i], String.class).invoke(post, data[i]);
+        for (int i = 0; i < Globals.columnNames.length; i++) {
+            if (forbiddenColumns.contains(Globals.columnNames[i])) continue;
+            post.getClass().getMethod("set"+Globals.columnNames[i], String.class).invoke(post, data[i]);
         }
         return post;
+    }
+
+    public void createListOfAllowedColumnNames() {
+        Globals.allowedColumns = new ArrayList<String>(Arrays.asList(Globals.columnNames));
+        Globals.allowedColumns.removeAll(Arrays.asList(Globals.forbiddenColumns));
     }
 }

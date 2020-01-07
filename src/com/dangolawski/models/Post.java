@@ -4,6 +4,8 @@ import com.dangolawski.services.Globals;
 
 public class Post {
 
+    private final int one = 1;
+
     private int tag;
 
     private int reputation;
@@ -11,6 +13,8 @@ public class Post {
     private int answers;
 
     private int views;
+
+    // SETTERS //
 
     public void setTag(String tag) {
         this.tag = Globals.tagValuse.indexOf(tag)+1;
@@ -27,6 +31,10 @@ public class Post {
     public void setViews(String views) {
         this.views = Integer.parseInt(views);
     }
+
+    // GETTERS //
+
+    public int getOne() { return one; }
 
     public int getTag() {
         return tag;

@@ -1,0 +1,8 @@
+
+Žsquid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(çÐ«˜8¿å«Ú÷-
+vsquid:S1450"XRemove the "csvReader" field and declare it as a local variable in the relevant methods.(Çôÿ¬8ßø´Ú÷-
+±%squid:RedundantThrowsDeclarationCheck"yRemove the declaration of thrown exception 'java.lang.InstantiationException', as it cannot be thrown from method's body.(çÐ«˜8—›®Ú÷-
+±%squid:RedundantThrowsDeclarationCheck"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(çÐ«˜8—›®Ú÷-
+Tsquid:S2696+"6Make the enclosing method "static" or remove this set.(ÆÕ¬À8¿å«Ú÷-
+Tsquid:S2696"6Make the enclosing method "static" or remove this set.(°Õ¸¦8¿å«Ú÷-
+usquid:S1450"RRemove the "row" field and declare it as a local variable in the relevant methods.(¤Ï¢Üüÿÿÿÿ8©›µÚ÷-
