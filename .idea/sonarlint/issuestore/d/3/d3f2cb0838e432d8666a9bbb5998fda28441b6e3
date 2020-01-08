@@ -1,0 +1,18 @@
+
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤öâÇşÿÿÿÿ8®ÁÒ³ø-
+Ysquid:UnusedPrivateMethodu"-Remove this unused private "pivotize" method.(úÚÔ†8øËö´ø-
+isquid:CommentedOutCodeLineY"<This block of commented-out lines of code should be removed.(Ÿ—‰­8Á‡õ´ø-
+nsquid:CommentedOutCodeLine]"<This block of commented-out lines of code should be removed.(îÓçğşÿÿÿÿ8Á‡õ´ø-
+nsquid:CommentedOutCodeLinea"<This block of commented-out lines of code should be removed.(Õ‘“Ûøÿÿÿÿ8Á‡õ´ø-
+nsquid:CommentedOutCodeLinec"<This block of commented-out lines of code should be removed.(¨ñ×Äşÿÿÿÿ8Á‡õ´ø-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙŒ¨Õúÿÿÿÿ8âæË³ø-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û¶öÄÿÿÿÿÿ8Å÷Ó³ø-
+hsquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(Ğ£æX8øËö´ø-
+isquid:CommentedOutCodeLineN"<This block of commented-out lines of code should be removed.(Ÿ„ÀÃ8±œ×´ø-
+isquid:CommentedOutCodeLineJ"<This block of commented-out lines of code should be removed.(¾‘ØÂ8±œ×´ø-
+isquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(ºªÔÚ8øËö´ø-
+]squid:S1118	":Add a private constructor to hide the implicit public one.(ŒŒŸ­ùÿÿÿÿ8øËö´ø-
+nsquid:CommentedOutCodeLinel"<This block of commented-out lines of code should be removed.(‡Ô÷Éıÿÿÿÿ8Á‡õ´ø-
+nsquid:CommentedOutCodeLineP"<This block of commented-out lines of code should be removed.(õ³Ú£üÿÿÿÿ8±œ×´ø-
+nsquid:CommentedOutCodeLineS"<This block of commented-out lines of code should be removed.(‹Äœ×ıÿÿÿÿ8±œ×´ø-
+squid:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(ÙŒ¨Õúÿÿÿÿ8ê†¹µø-

@@ -2,17 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c64a17e0-8aa2-48bb-86b8-ff547cf17733" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/3/2393ff78cc06643f7f7ae16a3ba62cabfdf355ae" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/3/2393ff78cc06643f7f7ae16a3ba62cabfdf355ae" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3cefe91d90664199abfec4e12b7077c59935b5ed" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3cefe91d90664199abfec4e12b7077c59935b5ed" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/f/6f7163a1eeab50f5f00daa49bb212356fb53896a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/f/6f7163a1eeab50f5f00daa49bb212356fb53896a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/5/75340350e273017dabf9bbc39d4a16fcd274410b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/5/75340350e273017dabf9bbc39d4a16fcd274410b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a494aa181388980fba37f291e5000ac9a5349c1c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a494aa181388980fba37f291e5000ac9a5349c1c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinerRegression_JAVA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LinerRegression_JAVA.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LinerRegression_JAVA/com/dangolawski/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LinerRegression_JAVA/com/dangolawski/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LinerRegression_JAVA/com/dangolawski/models/Post.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LinerRegression_JAVA/com/dangolawski/models/Post.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LinerRegression_JAVA/com/dangolawski/services/DataFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LinerRegression_JAVA/com/dangolawski/services/DataFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LinerRegression_JAVA/com/dangolawski/services/Globals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LinerRegression_JAVA/com/dangolawski/services/Globals.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/dangolawski/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dangolawski/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dangolawski/models/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dangolawski/models/Post.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dangolawski/services/DataFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dangolawski/services/DataFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dangolawski/services/Globals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dangolawski/services/Globals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dangolawski/services/MatrixOperationsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dangolawski/services/MatrixOperationsService.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,24 +22,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/dangolawski/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="27" column="68" selection-start-line="27" selection-start-column="68" selection-end-line="27" selection-end-column="68" />
+            <state relative-caret-position="488">
+              <caret line="29" column="65" selection-start-line="29" selection-start-column="65" selection-end-line="29" selection-end-column="65" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dangolawski/services/ChartService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="42" column="81" selection-start-line="42" selection-start-column="81" selection-end-line="42" selection-end-column="81" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1922#1923#0" expanded="true" />
-                <element signature="e#1950#1951#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -51,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/dangolawski/services/MatrixOperationsService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="30" column="106" selection-start-line="30" selection-start-column="106" selection-end-line="30" selection-end-column="106" />
+            <state relative-caret-position="242">
+              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -61,27 +44,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dangolawski/posts_score102.csv">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dangolawski/services/OverfittingService.java">
+        <entry file="file://$PROJECT_DIR$/src/com/dangolawski/models/MatrixItem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="20" column="56" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="170">
+              <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dangolawski/services/DataFactory.java">
+        <entry file="file://$PROJECT_DIR$/src/com/dangolawski/services/LUDecompositionService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+            <state relative-caret-position="301">
+              <caret line="96" column="44" lean-forward="true" selection-start-line="94" selection-start-column="10" selection-end-line="96" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -94,6 +72,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>range</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -108,15 +91,17 @@
         <option value="$PROJECT_DIR$/src/com/dangolawski/models/Post.java" />
         <option value="$PROJECT_DIR$/src/com/dangolawski/services/OverfittingService.java" />
         <option value="$PROJECT_DIR$/src/com/dangolawski/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/dangolawski/services/LUDecompositionService.java" />
+        <option value="$PROJECT_DIR$/src/com/dangolawski/models/MatrixItem.java" />
         <option value="$PROJECT_DIR$/src/com/dangolawski/services/MatrixOperationsService.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="980" />
-    <option name="height" value="1050" />
+    <option name="x" value="951" />
+    <option name="y" value="-9" />
+    <option name="width" value="978" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectId" id="1Vl5OxgrRzVT0qoeDCYnQSSwRqJ" />
   <component name="ProjectLevelVcsManager">
@@ -174,7 +159,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578337418083" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578515653407" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../MetodyNumeryczne/InvertibleMatrixCalculator" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -243,18 +228,18 @@
       <workItem from="1578066373096" duration="891000" />
       <workItem from="1578245888866" duration="8061000" />
       <workItem from="1578316155134" duration="11656000" />
-      <workItem from="1578414886362" duration="3103000" />
+      <workItem from="1578414886362" duration="3349000" />
+      <workItem from="1578500153312" duration="13866000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23711000" />
+    <option name="totallyTimeSpent" value="37823000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19865772" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20134228" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -264,7 +249,7 @@
       <window_info anchor="bottom" id="Messages" order="0" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -325,6 +310,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dangolawski/services/ChartService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="42" column="81" selection-start-line="42" selection-start-column="81" selection-end-line="42" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1922#1923#0" expanded="true" />
+            <element signature="e#1950#1951#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dangolawski/posts_score102.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -345,22 +342,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dangolawski/services/ChartService.java">
+    <entry file="file://$PROJECT_DIR$/src/com/dangolawski/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="42" column="81" selection-start-line="42" selection-start-column="81" selection-end-line="42" selection-end-column="81" />
+        <state relative-caret-position="488">
+          <caret line="29" column="65" selection-start-line="29" selection-start-column="65" selection-end-line="29" selection-end-column="65" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1922#1923#0" expanded="true" />
-            <element signature="e#1950#1951#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dangolawski/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/dangolawski/models/MatrixItem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="27" column="68" selection-start-line="27" selection-start-column="68" selection-end-line="27" selection-end-column="68" />
+        <state relative-caret-position="170">
+          <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dangolawski/services/LUDecompositionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="96" column="44" lean-forward="true" selection-start-line="94" selection-start-column="10" selection-end-line="96" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -369,8 +371,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dangolawski/services/MatrixOperationsService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="30" column="106" selection-start-line="30" selection-start-column="106" selection-end-line="30" selection-end-column="106" />
+        <state relative-caret-position="242">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
